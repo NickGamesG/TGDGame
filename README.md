@@ -20,41 +20,40 @@ Changelog:
 Game Published
 
 (Version 2.0)
-Added Menu
-Added New Songs (a button)
-Removed Old Background
-Added volume control
-Added Credits
+Added Menu,
+Added New Songs (a button),
+Removed Old Background,
+Added volume control,
+Added Credits,
 
 (Version 3.0)
-Added new obstacles
-Sped up some songs
-Added Test Backdrop (For remixers)
+Added new obstacles,
+Sped up some songs,
+Added Test Backdrop (For remixers),
 
 (Version 4.0)
-Added New Characters
-Added 2 new songs
-Added New obstacles
-Added New Backdrop (Mario Galaxy)
-Added New Death screen (Dark Souls You Died)
-Fixed a music bug that caused 2 of the songs to be sped up.
+Added New Characters,
+Added 2 new songs,
+Added New obstacles,
+Added New Backdrop (Mario Galaxy),
+Added New Death screen (Dark Souls You Died),
+Fixed a music bug that caused 2 of the songs to be sped up.,
 
 (Update 5.0)
-Removed the Death Screen (Apperantly it was annoying)
-Added settings and new menu.
-Added 2 new backdrops (Super Gangsta Mario is back!)
-Removed sound buttons ingame. (Done so for settings)
+Removed the Death Screen (Apperantly it was annoying),
+Added settings and new menu.,
+Added 2 new backdrops (Super Gangsta Mario is back!),
+Removed sound buttons ingame. (Done so for settings),
 
 Credits:
-Original Programming by yoshigamer1003
-Remake/Updated Version by NickGames
-Sprites/Backdrops by Nintendo
-Music by SEGA
+Original Programming by yoshigamer1003,
+Remake/Updated Version by NickGames,
+Sprites/Backdrops by Nintendo,
+Music by SEGA,
 
 Music:
-Song 1 = ???
-Song 2 = Hydrocity Act 2
-Song 3 = The Mad Convy Race
-Song 4 = Marble Zone Act 1
-Song 5 = Escape from the City
-
+Song 1 = ???,
+Song 2 = Hydrocity Act 2,
+Song 3 = The Mad Convy Race,
+Song 4 = Marble Zone Act 1,
+Song 5 = Escape from the City,
